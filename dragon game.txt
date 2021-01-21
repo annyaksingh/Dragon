@@ -1,0 +1,18 @@
+yourself/main - dragon
+ non-main - worrior 
+
+rule's 
+1 try not to go near the worrior's
+2 try getting enough food to make you faster
+3 if you touch the dead end wall you have to start over
+4 you'll have 6/score get all 6 to get 15sec of speed
+5 comsume more to get more scores in each level
+6 worrior can pass trough the wall's
+7 for controlling the dragon you can use the 4 main keys (up,down,right,left)
+8 worrior's will increas in each level from 1 to 2 and more
+
+---------------------------------------------------------------------
+> creat the maze 
+> creat the dragon and its movment
+> worrior's and there movment
+> game states 
